@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+	<chore_category id="1" name="Household" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="2" name="Yard Work" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="3" name="Person Care" version="1" date_created="2012-01-16" last_updated="2012-01-16" />	
+	<chore_category id="4" name="Animal Care" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="5" name="Personal Services" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="6" name="Help Selling" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="7" name="Transportation" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="8" name="Moving" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="9" name="Skilled" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="10" name="Events" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="11" name="Office Help" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="12" name="Online Help" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_category id="13" name="Marketing" version="1" date_created="2012-01-16" last_updated="2012-01-16" />	
+</dataset>

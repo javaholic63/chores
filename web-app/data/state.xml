@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+	<state name="Alabama" abbreviation="AL" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Alaska" abbreviation="AK" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Arizona" abbreviation="AZ" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Arkansas" abbreviation="AR" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="California" abbreviation="CA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Colorado" abbreviation="CO" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Connecticut" abbreviation="CT" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Delaware" abbreviation="DE" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="District of Columbia" abbreviation="DC" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Florida" abbreviation="FL" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Georgia" abbreviation="GA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Hawaii" abbreviation="HI" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Idaho" abbreviation="ID" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Illinois" abbreviation="IL" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Iowa" abbreviation="IA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Kansas" abbreviation="KS" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Kentucky" abbreviation="KY" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Louisiana" abbreviation="LA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Maine" abbreviation="ME" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Maryland" abbreviation="MD" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Massachussetts" abbreviation="MA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Michigan" abbreviation="MI" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Minnesota" abbreviation="MN" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Mississippi" abbreviation="MS" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Missouri" abbreviation="MO" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Montana" abbreviation="MT" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Nebraska" abbreviation="NE" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Nevada" abbreviation="NV" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="New Hampshire" abbreviation="NH" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="New Jersey" abbreviation="NJ" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="New Mexico" abbreviation="NM" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="New York" abbreviation="NY" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="North Carolina" abbreviation="NC" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="North Dakota" abbreviation="ND" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Ohio" abbreviation="OH" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Oklahoma" abbreviation="OK" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Oregon" abbreviation="OR" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Pennsylvania" abbreviation="PA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Rhode Island" abbreviation="RI" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="South Carolina" abbreviation="SC" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="South Dakota" abbreviation="SD" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Tennessee" abbreviation="TN" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Texas" abbreviation="TX" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Utah" abbreviation="UT" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Vermont" abbreviation="VT" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Virginia" abbreviation="VA" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="West Virgina" abbreviation="WV" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Wisconsin" abbreviation="WI" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<state name="Wyoming" abbreviation="WY" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+</dataset>

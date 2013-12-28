@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dataset>
+	<chore_type type_name="Cleaning" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Laundry" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Cooking" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Home Repair" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="House Sitting" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Organization" CHORE_CATEGORY_ID="1" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Gardening" CHORE_CATEGORY_ID="2" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Mowing" CHORE_CATEGORY_ID="2" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Landscaping" CHORE_CATEGORY_ID="2" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Snow Removal" CHORE_CATEGORY_ID="2" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Infants" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Toddlers" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Children" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Teens" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Seniors" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Disabled" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Companions" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Live-In" CHORE_CATEGORY_ID="3" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Sitting" CHORE_CATEGORY_ID="4" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Walking" CHORE_CATEGORY_ID="4" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Grooming" CHORE_CATEGORY_ID="4" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Training" CHORE_CATEGORY_ID="4" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Cleanup" CHORE_CATEGORY_ID="4" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Concierge" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Laundry" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Sewing" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Hair/Salon" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Massage" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Personal Trainer" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Tutoring" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Lessons" CHORE_CATEGORY_ID="5" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Vehicles" CHORE_CATEGORY_ID="6" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Personal Items" CHORE_CATEGORY_ID="6" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Household Items" CHORE_CATEGORY_ID="6" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Office Items" CHORE_CATEGORY_ID="6" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Delivery" CHORE_CATEGORY_ID="7" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Removal" CHORE_CATEGORY_ID="7" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Rides" CHORE_CATEGORY_ID="7" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Packing" CHORE_CATEGORY_ID="8" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Loading/Unloading" CHORE_CATEGORY_ID="8" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Transport/Storage" CHORE_CATEGORY_ID="8" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Heavy Lifting" CHORE_CATEGORY_ID="8" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Electrical" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Carpentry" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Plumbing" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Painting" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Construction" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Appliance" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Mechanic" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Tech Support" CHORE_CATEGORY_ID="9" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Helpers" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Photography" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Videography" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Entertainment" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Catering" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Planning" CHORE_CATEGORY_ID="10" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Cleaning" CHORE_CATEGORY_ID="11" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Accounting" CHORE_CATEGORY_ID="11" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Administration" CHORE_CATEGORY_ID="11" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Notary" CHORE_CATEGORY_ID="11" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Research" CHORE_CATEGORY_ID="12" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Testing" CHORE_CATEGORY_ID="12" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Data Entry" CHORE_CATEGORY_ID="12" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Categorization" CHORE_CATEGORY_ID="12" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Moderation" CHORE_CATEGORY_ID="12" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Writing" CHORE_CATEGORY_ID="13" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Graphic Design" CHORE_CATEGORY_ID="13" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Websites" CHORE_CATEGORY_ID="13" version="1" date_created="2012-01-16" last_updated="2012-01-16" />
+	<chore_type type_name="Social Media" CHORE_CATEGORY_ID="13" version="1" date_created="2012-01-16" last_updated="2012-01-16" />		
+</dataset>
